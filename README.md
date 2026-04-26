@@ -50,7 +50,7 @@ git push
 
 
 ### Ссылка на коммит:
-https://github.com/Fuyumiki/netology_hw_git/commit/ТВОЙ_ХЕШ
+https://github.com/Fuyumiki/netology_hw_git/commit/149ea60a53bf67a9cc605e743dce0d4b9966f59c
 
 ---
 
