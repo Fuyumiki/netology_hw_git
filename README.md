@@ -26,7 +26,7 @@ git push origin main
 
 
 ### Ссылка на коммит:
-https://github.com/Fuyumiki/netology_hw_git/commit/ТВОЙ_ХЕШ
+https://github.com/Fuyumiki/netology_hw_git/commit/4ed91ef8891e6c199e428cd99f7380a4318d2fe8#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5
 
 ---
 
